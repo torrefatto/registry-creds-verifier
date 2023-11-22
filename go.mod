@@ -1,4 +1,4 @@
-module github.com/torrefatto/oci-creds-verifier
+module github.com/torrefatto/registry-creds-verifier
 
 go 1.21.4
 
